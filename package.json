@@ -1,0 +1,26 @@
+{
+  "name": "yamd5.js",
+  "version": "1.0.0",
+  "description": "YaMD5 - Yet another MD5 hasher",
+  "main": "yamd5.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zba/yamd5.js.git"
+  },
+  "keywords": [
+    "md5",
+    "yamd5"
+  ],
+  "author": "Raymond Hill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zba/yamd5.js/issues"
+  },
+  "homepage": "https://github.com/zba/yamd5.js#readme"
+}
